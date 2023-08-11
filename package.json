@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-spinners": "^0.13.8",
+    "tesseract.js": "^4.1.1"
+  }
+}
